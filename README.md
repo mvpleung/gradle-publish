@@ -73,6 +73,12 @@ gradle artifactoryPublish
 ###5. add library to Jcenter
 Send a request to bintray.com about adding the library to Jcenter, after the request be approved, others can use your library by one line code in their `build.gradle` files.
 
+##Contributors
+
+Special thanks to:
+
+* [@dxjia](https://github.com/dxjia) for improving this README.
+
 ---
 
 ##介绍
@@ -151,3 +157,9 @@ gradle artifactoryPublish
 *注:* 当前版本不会再在通过 Android Studio 运行项目时引发错误。
 
 使用方法见博客：http://blog.csdn.net/maosidiaoxian/article/details/43148643
+
+如有不明，亦可参见：http://zdz.la/rpZnyX
+
+##特别鸣谢
+
+* [@dxjia](https://github.com/dxjia) 完善README文档
